@@ -1,7 +1,6 @@
 - 👋 Hi, I’m João Paulo
 - 👀 I’m interested in html, css, Java Script, web Develope
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joaopaulo.smenezes@hotmail.com
 - my instagram: @joaopaulox1
 
