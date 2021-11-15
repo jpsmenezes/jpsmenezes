@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning Html, Css, Javascript
 - 📫 How to reach me joaopaulo.smenezes@hotmail.com
-- 📸 https://www.instagram.com/joaopaulox1/
+- 📸 Instagram: https://www.instagram.com/joaopaulox1/
+- 🔗 Frontend Mentor: https://www.frontendmentor.io/profile/jpsmenezes
 
 <br>
 
