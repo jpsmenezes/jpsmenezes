@@ -1,4 +1,4 @@
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Paulo</h1>
+<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm João Paulo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpsmenezes&color=blue" alt="Profile views" /> </p>
 
 - 🌱 I’m currently learning Html, Css, Javascript
